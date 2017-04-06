@@ -1,0 +1,275 @@
+Found minima at row : 111
+Found maxima at row : 210
+This is the first maxima
+Found minima at row : 342
+Found maxima at row : 460
+The calculated heart rate is : 120
+The current average value is : 120
+Found minima at row : 603
+Found maxima at row : 711
+The calculated heart rate is : 119.522
+The current average value is : 119.761
+Found minima at row : 849
+Found maxima at row : 955
+The calculated heart rate is : 122.951
+The current average value is : 120.824
+Found minima at row : 1095
+Found maxima at row : 1194
+The calculated heart rate is : 125.523
+The current average value is : 121.999
+Found minima at row : 1342
+Found maxima at row : 1449
+The calculated heart rate is : 117.647
+The current average value is : 121.129
+Found minima at row : 1588
+Found maxima at row : 1679
+The calculated heart rate is : 130.435
+The current average value is : 122.68
+Found minima at row : 1834
+Found maxima at row : 1934
+The calculated heart rate is : 117.647
+The current average value is : 121.961
+Found minima at row : 2080
+Found maxima at row : 2426
+The calculated heart rate is : 60.9756
+The above value looks incorrect and we ignore it
+Found minima at row : 2572
+Found maxima at row : 2918
+The calculated heart rate is : 60.9756
+The above value looks incorrect and we ignore it
+Found minima at row : 3065
+Found maxima at row : 3169
+The calculated heart rate is : 119.522
+The current average value is : 121.656
+Found minima at row : 3311
+Found maxima at row : 3657
+The calculated heart rate is : 61.4754
+The above value looks incorrect and we ignore it
+Found minima at row : 3802
+Found maxima at row : 3907
+The calculated heart rate is : 120
+The current average value is : 121.472
+Found minima at row : 4048
+Found maxima at row : 4149
+The calculated heart rate is : 123.967
+The current average value is : 121.721
+Found minima at row : 4294
+Found maxima at row : 4880
+The calculated heart rate is : 41.0397
+The above value looks incorrect and we ignore it
+Found minima at row : 5031
+Found maxima at row : 5135
+The calculated heart rate is : 117.647
+The current average value is : 121.351
+Found minima at row : 5276
+Found maxima at row : 5382
+The calculated heart rate is : 121.457
+The current average value is : 121.36
+Found minima at row : 5521
+Found maxima at row : 5621
+The calculated heart rate is : 125.523
+The current average value is : 121.68
+Found minima at row : 5768
+Found maxima at row : 6116
+The calculated heart rate is : 60.6061
+The above value looks incorrect and we ignore it
+Found minima at row : 6258
+Found maxima at row : 6350
+The calculated heart rate is : 128.205
+The current average value is : 122.146
+Found minima at row : 6503
+Found maxima at row : 6851
+The calculated heart rate is : 59.8802
+The above value looks incorrect and we ignore it
+Found minima at row : 6994
+Found maxima at row : 7837
+The calculated heart rate is : 30.426
+The above value looks incorrect and we ignore it
+Found minima at row : 7974
+Found maxima at row : 8072
+The calculated heart rate is : 127.66
+The current average value is : 122.514
+Found minima at row : 8218
+Found maxima at row : 8315
+The calculated heart rate is : 123.457
+The current average value is : 122.573
+Found minima at row : 8463
+Found maxima at row : 8551
+The calculated heart rate is : 127.119
+The current average value is : 122.84
+Found minima at row : 8709
+Found maxima at row : 8813
+The calculated heart rate is : 114.504
+The current average value is : 122.377
+Found minima at row : 8953
+Found maxima at row : 9048
+The calculated heart rate is : 127.66
+The current average value is : 122.655
+Found minima at row : 9197
+Found maxima at row : 9295
+The calculated heart rate is : 121.457
+The current average value is : 122.595
+Found minima at row : 9442
+Found maxima at row : 9539
+The calculated heart rate is : 122.951
+The current average value is : 122.612
+Found minima at row : 9689
+Found maxima at row : 9750
+The calculated heart rate is : 142.18
+The current average value is : 123.502
+Found minima at row : 9930
+Found maxima at row : 9964
+The calculated heart rate is : 140.187
+The current average value is : 124.227
+Found minima at row : 10176
+Found maxima at row : 10279
+The calculated heart rate is : 95.2381
+The current average value is : 123.019
+Found minima at row : 10420
+Found maxima at row : 10512
+The calculated heart rate is : 128.755
+The current average value is : 123.249
+Found minima at row : 10665
+Found maxima at row : 10772
+The calculated heart rate is : 115.385
+The current average value is : 122.946
+Found minima at row : 10907
+Found maxima at row : 11000
+The calculated heart rate is : 131.579
+The current average value is : 123.266
+Found minima at row : 11152
+Found maxima at row : 11987
+The calculated heart rate is : 30.3951
+The above value looks incorrect and we ignore it
+Found minima at row : 12127
+Found maxima at row : 12233
+The calculated heart rate is : 121.951
+The current average value is : 123.219
+Found minima at row : 12371
+Found maxima at row : 12470
+The calculated heart rate is : 126.582
+The current average value is : 123.335
+Found minima at row : 12616
+Found maxima at row : 12720
+The calculated heart rate is : 120
+The current average value is : 123.224
+Found minima at row : 12859
+Found maxima at row : 12952
+The calculated heart rate is : 129.31
+The current average value is : 123.42
+Found minima at row : 13103
+Found maxima at row : 13210
+The calculated heart rate is : 116.279
+The current average value is : 123.197
+Found minima at row : 13347
+Found maxima at row : 13454
+The calculated heart rate is : 122.951
+The current average value is : 123.189
+Found minima at row : 13592
+Found maxima at row : 13694
+The calculated heart rate is : 125
+The current average value is : 123.243
+Found minima at row : 13835
+Found maxima at row : 14185
+The calculated heart rate is : 61.0998
+The above value looks incorrect and we ignore it
+Found minima at row : 14323
+Found maxima at row : 14408
+The calculated heart rate is : 134.529
+The current average value is : 123.565
+Found minima at row : 14566
+Found maxima at row : 14658
+The calculated heart rate is : 120
+The current average value is : 123.466
+Found minima at row : 14810
+Found maxima at row : 14914
+The calculated heart rate is : 117.188
+The current average value is : 123.296
+Found minima at row : 15054
+Found maxima at row : 15147
+The calculated heart rate is : 128.755
+The current average value is : 123.44
+Found minima at row : 15297
+Found maxima at row : 15403
+The calculated heart rate is : 117.188
+The current average value is : 123.28
+Found minima at row : 15541
+Found maxima at row : 15635
+The calculated heart rate is : 129.31
+The current average value is : 123.431
+Found minima at row : 15781
+Found maxima at row : 15880
+The calculated heart rate is : 122.449
+The current average value is : 123.407
+Found minima at row : 16026
+Found maxima at row : 16125
+The calculated heart rate is : 122.449
+The current average value is : 123.384
+Found minima at row : 16269
+Found maxima at row : 16371
+The calculated heart rate is : 121.951
+The current average value is : 123.35
+Found minima at row : 16511
+Found maxima at row : 16613
+The calculated heart rate is : 123.967
+The current average value is : 123.364
+Found minima at row : 16755
+Found maxima at row : 16853
+The calculated heart rate is : 125
+The current average value is : 123.401
+Found minima at row : 16998
+Found maxima at row : 17095
+The calculated heart rate is : 123.967
+The current average value is : 123.413
+Found minima at row : 17241
+Found maxima at row : 17345
+The calculated heart rate is : 120
+The current average value is : 123.341
+Found minima at row : 17484
+Found maxima at row : 17584
+The calculated heart rate is : 125.523
+The current average value is : 123.386
+Found minima at row : 17728
+Found maxima at row : 17835
+The calculated heart rate is : 119.522
+The current average value is : 123.307
+Found minima at row : 17970
+Found maxima at row : 18075
+The calculated heart rate is : 125
+The current average value is : 123.341
+Found minima at row : 18213
+Found maxima at row : 18316
+The calculated heart rate is : 124.481
+The current average value is : 123.363
+Found minima at row : 18457
+Found maxima at row : 18558
+The calculated heart rate is : 123.967
+The current average value is : 123.375
+Found minima at row : 18700
+Found maxima at row : 18803
+The calculated heart rate is : 122.449
+The current average value is : 123.357
+Found minima at row : 18943
+Found maxima at row : 19040
+The calculated heart rate is : 126.582
+The current average value is : 123.417
+Found minima at row : 19185
+Found maxima at row : 19279
+The calculated heart rate is : 125.523
+The current average value is : 123.455
+Found minima at row : 19430
+Found maxima at row : 19525
+The calculated heart rate is : 121.951
+The current average value is : 123.429
+Found minima at row : 19670
+Found maxima at row : 19768
+The calculated heart rate is : 123.457
+The current average value is : 123.429
+Found minima at row : 19914
+Found maxima at row : 20747
+The calculated heart rate is : 30.6435
+The above value looks incorrect and we ignore it
+Found minima at row : 20882
+Found maxima at row : 20916
+The calculated heart rate is : 177.515
+The current average value is : 124.362
