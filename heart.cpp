@@ -1,5 +1,5 @@
 //For internship
-
+// for calculating the heart rate from the ECG of a person
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
@@ -71,7 +71,7 @@ int main()
     }
 
     count--;
-    sum = sum/count;
+    sum = sum/count; // "sum" here is the avg. 
 
 
 
